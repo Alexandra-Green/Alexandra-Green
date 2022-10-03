@@ -5,7 +5,7 @@ I'm a front-end development enthusiast with an interest in Web3, CyberSecurity, 
 ##### BIO
 
 - 🔭 I’m currently working on an Ethereum Gas Tracker
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m currently learning Solidity and Drupal
 - 😄 Pronouns: She/her
 - 💬 Ask me about my freelance work
 - ⚡ Fun fact: My university endorsed me to become a Rhode Scholar in 2021
