@@ -8,8 +8,8 @@ I'm a front-end development enthusiast with an interest in Web3, CyberSecurity, 
 - 🌱 I’m currently learning Typescript and Vue
 - 😄 Pronouns: She/her
 - 💬 Ask me about my freelance work
-- ⚡ Fun fact: My university endorsed me to become a Rhode Scholar in 2021
-- 🏆 2023 Goals: Get Security+ Certification
+<!-- - ⚡ Fun fact: -->
+- 🏆 2024 Goals: Get Security+ Certification
 
 <!--
 **Alexandra-Green/Alexandra-Green** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
